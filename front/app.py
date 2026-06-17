@@ -162,4 +162,4 @@ if st.button("보안 루틴 추천받기", type="primary"):
 
 st.divider()
 
-st.caption("본 서비스는 교육용 추천 웹 애플리케이션입니다.")
+st.caption("본 서비스는 오픈소스소프트웨어실습 과제 추천 웹 애플리케이션입니다.")
